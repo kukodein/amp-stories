@@ -1,5 +1,5 @@
 # amp-stories
-Stories using AMP Google
+Stories using AMP Google, see [demo](https://lab.kukode.in/amp-stories)
 
 <hr>
 
